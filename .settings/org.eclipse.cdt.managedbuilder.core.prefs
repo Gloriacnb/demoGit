@@ -1,0 +1,11 @@
+eclipse.preferences.version=1
+environment/buildEnvironmentInclude/com.freescale.s32ds.cross.gnu.e200.exe.debug.617631491/CPATH/delimiter=;
+environment/buildEnvironmentInclude/com.freescale.s32ds.cross.gnu.e200.exe.debug.617631491/CPATH/operation=remove
+environment/buildEnvironmentInclude/com.freescale.s32ds.cross.gnu.e200.exe.debug.617631491/C_INCLUDE_PATH/delimiter=;
+environment/buildEnvironmentInclude/com.freescale.s32ds.cross.gnu.e200.exe.debug.617631491/C_INCLUDE_PATH/operation=remove
+environment/buildEnvironmentInclude/com.freescale.s32ds.cross.gnu.e200.exe.debug.617631491/append=true
+environment/buildEnvironmentInclude/com.freescale.s32ds.cross.gnu.e200.exe.debug.617631491/appendContributed=true
+environment/buildEnvironmentLibrary/com.freescale.s32ds.cross.gnu.e200.exe.debug.617631491/LIBRARY_PATH/delimiter=;
+environment/buildEnvironmentLibrary/com.freescale.s32ds.cross.gnu.e200.exe.debug.617631491/LIBRARY_PATH/operation=remove
+environment/buildEnvironmentLibrary/com.freescale.s32ds.cross.gnu.e200.exe.debug.617631491/append=true
+environment/buildEnvironmentLibrary/com.freescale.s32ds.cross.gnu.e200.exe.debug.617631491/appendContributed=true

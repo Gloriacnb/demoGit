@@ -1,0 +1,17 @@
+core=S32R274_Z4_1
+coreType=S32R274_Z4
+eclipse.preferences.version=1
+flashSize=512K
+flashStart=1000000
+fpu=None
+groupName=First
+io=
+language=c
+library=ewl_c9x
+pinSet=
+processor=S32R274
+productVersion=v1.2 b170613 
+ramSize=426K
+ramStart=40000000
+toolchainVersion=
+wizardVersion=1.0.0.201705041237

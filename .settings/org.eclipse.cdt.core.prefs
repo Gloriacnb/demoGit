@@ -1,0 +1,16 @@
+eclipse.preferences.version=1
+environment/project/com.freescale.s32ds.cross.gnu.e200.exe.Debug_RAM/PATH/delimiter=;
+environment/project/com.freescale.s32ds.cross.gnu.e200.exe.Debug_RAM/PATH/operation=prepend
+environment/project/com.freescale.s32ds.cross.gnu.e200.exe.Debug_RAM/PATH/value=
+environment/project/com.freescale.s32ds.cross.gnu.e200.exe.Debug_RAM/append=true
+environment/project/com.freescale.s32ds.cross.gnu.e200.exe.Debug_RAM/appendContributed=true
+environment/project/com.freescale.s32ds.cross.gnu.e200.exe.debug.617631491/PATH/delimiter=;
+environment/project/com.freescale.s32ds.cross.gnu.e200.exe.debug.617631491/PATH/operation=replace
+environment/project/com.freescale.s32ds.cross.gnu.e200.exe.debug.617631491/PATH/value=W\:\\Tools\\NXP\\S32DS_Power_v1.2\\eclipse\\..\\Cross_Tools\\powerpc-eabivle-4_9\\bin;W\:\\Tools\\NXP\\S32DS_Power_v1.2\\utils\\MinGW\\msys\\1.0\\bin;W\:\\Tools\\NXP\\S32DS_Power_v1.2\\eclipse\\..\\S32DS\\SPT2\\bin;W\:/Tools/NXP/S32DS_Power_v1.2/eclipse/jre/bin/client;W\:/Tools/NXP/S32DS_Power_v1.2/eclipse/jre/bin;W\:/Tools/NXP/S32DS_Power_v1.2/eclipse/jre/lib/i386;C\:\\ProgramData\\Oracle\\Java\\javapath;C\:\\Program Files (x86)\\Intel\\iCLS Client\\;C\:\\Program Files\\Intel\\iCLS Client\\;C\:\\Windows\\system32;C\:\\Windows;C\:\\Windows\\System32\\Wbem;C\:\\Windows\\System32\\WindowsPowerShell\\v1.0\\;C\:\\Program Files (x86)\\Intel\\Intel(R) Management Engine Components\\DAL;C\:\\Program Files\\Intel\\Intel(R) Management Engine Components\\DAL;C\:\\Program Files (x86)\\Intel\\Intel(R) Management Engine Components\\IPT;C\:\\Program Files\\Intel\\Intel(R) Management Engine Components\\IPT;C\:\\Program Files (x86)\\NVIDIA Corporation\\PhysX\\Common;W\:\\MinGW\\bin;W\:\\MinGW\\lib;;%SystemRoot%\\system32;%SystemRoot%;%SystemRoot%\\System32\\Wbem;%SYSTEMROOT%\\System32\\WindowsPowerShell\\v1.0\\;%SYSTEMROOT%\\System32\\OpenSSH\\;d\:\\Program Files\\GNU Tools ARM Embedded\\7 2017-q4-major\\bin;C\:\\Users\\Peter\\AppData\\Local\\Microsoft\\WindowsApps;;W\:\\Tools\\NXP\\S32DS_Power_v1.2\\eclipse
+environment/project/com.freescale.s32ds.cross.gnu.e200.exe.debug.617631491/append=true
+environment/project/com.freescale.s32ds.cross.gnu.e200.exe.debug.617631491/appendContributed=true
+environment/project/com.freescale.s32ds.cross.gnu.e200.exe.release.61581393/PATH/delimiter=;
+environment/project/com.freescale.s32ds.cross.gnu.e200.exe.release.61581393/PATH/operation=prepend
+environment/project/com.freescale.s32ds.cross.gnu.e200.exe.release.61581393/PATH/value=
+environment/project/com.freescale.s32ds.cross.gnu.e200.exe.release.61581393/append=true
+environment/project/com.freescale.s32ds.cross.gnu.e200.exe.release.61581393/appendContributed=true
